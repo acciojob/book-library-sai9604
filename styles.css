@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f8f8f8;
+}
+h1{
+	text-align:center;
+}
+.book{
+	display:flex;
+	justify-content:center;
+}
+.b{
+	font-weight:bold;
+	background-color:#777777;
+}
+.r{
+	border:1px solid white;
+	background-color:#2ecc71;
+	text-align:center;
+	border-radius:5px;
+}
+.k{
+	background-color:#ffffff;
+}
